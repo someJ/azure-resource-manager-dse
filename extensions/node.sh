@@ -14,7 +14,7 @@ echo unique_string $unique_string
 echo data_center_name $data_center_name
 echo seed_node_dns_name $seed_node_dns_name
 
-wget https://github.com/jideshgopalan/install-datastax/archive/master.zip
+wget https://github.com/someJ/install-datastax/archive/master.zip
 apt-get -y install unzip
 unzip master.zip
 cd install-datastax-master/bin
