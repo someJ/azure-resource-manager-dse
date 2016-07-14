@@ -1,9 +1,9 @@
 {
   "nodeCount": {
-    "value": 1
+    "value": 3
   },
   "vmSize": {
-    "value": "Standard_D3_v2"
+    "value": "Standard_DS2_v2"
   },
   "adminUsername": {
     "value": "datastax"
